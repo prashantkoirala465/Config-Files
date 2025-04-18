@@ -1,0 +1,42 @@
+//My custom settings
+{
+  "show_edit_predictions": false,
+  "languages": {
+    "C": {
+      "show_edit_predictions": false
+    }
+  },
+  "edit_predictions": {
+    "disabled_globs": [],
+    "mode": "eager",
+    "copilot": {
+      "proxy": null,
+      "proxy_no_verify": null
+    },
+    "enabled_in_assistant": false
+  },
+  "assistant": {
+    "button": false,
+    "default_model": {
+      "provider": "copilot_chat",
+      "model": "gpt-4o"
+    },
+    "version": "2"
+  },
+  "theme": "Carbonfox",
+  "vim_mode": true,
+  "terminal": {
+    "dock": "bottom",
+    "font_family": "MesloLGS NF",
+    "font_size": 13
+  },
+  "chat_panel": {
+    "button": "never"
+  },
+  "collaboration_panel": {
+    "button": false
+  },
+  "notification_panel": {
+    "button": false
+  }
+}
