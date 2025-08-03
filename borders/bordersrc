@@ -1,0 +1,10 @@
+# ~/.config/jankyborders/config
+options=(
+  style=round
+  width=5.0
+  hidpi=true
+  active_color=0xff00c4b4
+  inactive_color=0x00ffffff
+)
+
+borders "${options[@]}"

@@ -1,0 +1,7 @@
+frame = "none"
+maximized = true
+fork = true
+
+[font]
+normal = ["MesloLGS Nerd Font Mono"]
+size = 15
